@@ -1,0 +1,1 @@
+export const hoverClassNames = 'transition-colors duration-500'
